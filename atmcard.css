@@ -1,0 +1,40 @@
+div{
+    width:26%;
+    background-color: rgb(199, 68, 35);
+    box-sizing: border-box;
+    border-radius: 10px;
+    height:200px;
+}
+#logo{
+    float:right;
+   
+}
+
+#cardnumber{
+    padding-left:50px;
+    padding-top:60px;
+    font-size:25px;
+    color:white;
+    height:10px;
+}
+#expiration{
+    display:inline;
+    text-align: center;
+    padding-left: 120px;
+    font-size:10px;
+}
+img{
+    width:100px;
+}
+span{
+padding-left: 60px;
+}
+#name{
+padding-left:80px;
+
+}
+#mastercard{
+float:right;
+width:80px;
+border-radius: 15px;
+}
